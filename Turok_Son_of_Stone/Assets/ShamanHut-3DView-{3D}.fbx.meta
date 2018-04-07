@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: d6f7288e55db18a43a0fa83ee48a9cbe
+timeCreated: 1523108870
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: Basic Roof Generic - 18" [261718]
+    100004: Basic Wall Generic - 8" [261549]
+    100006: Basic Wall Generic - 8" [261550]
+    100008: Basic Wall Generic - 8" [261585]
+    100010: Basic Wall Generic - 8" [261586]
+    100012: Basic Wall Generic - 8" [261610]
+    100014: Basic Wall Generic - 8" [261611]
+    100016: //RootNode
+    400000: '3D View: {3D}'
+    400002: Basic Roof Generic - 18" [261718]
+    400004: Basic Wall Generic - 8" [261549]
+    400006: Basic Wall Generic - 8" [261550]
+    400008: Basic Wall Generic - 8" [261585]
+    400010: Basic Wall Generic - 8" [261586]
+    400012: Basic Wall Generic - 8" [261610]
+    400014: Basic Wall Generic - 8" [261611]
+    400016: //RootNode
+    2300000: Basic Roof Generic - 18" [261718]
+    2300002: Basic Wall Generic - 8" [261549]
+    2300004: Basic Wall Generic - 8" [261550]
+    2300006: Basic Wall Generic - 8" [261585]
+    2300008: Basic Wall Generic - 8" [261586]
+    2300010: Basic Wall Generic - 8" [261610]
+    2300012: Basic Wall Generic - 8" [261611]
+    3300000: Basic Roof Generic - 18" [261718]
+    3300002: Basic Wall Generic - 8" [261549]
+    3300004: Basic Wall Generic - 8" [261550]
+    3300006: Basic Wall Generic - 8" [261585]
+    3300008: Basic Wall Generic - 8" [261586]
+    3300010: Basic Wall Generic - 8" [261610]
+    3300012: Basic Wall Generic - 8" [261611]
+    4300000: Basic Wall Generic - 8" [261549]
+    4300002: Basic Wall Generic - 8" [261550]
+    4300004: Basic Wall Generic - 8" [261585]
+    4300006: Basic Wall Generic - 8" [261586]
+    4300008: Basic Wall Generic - 8" [261610]
+    4300010: Basic Wall Generic - 8" [261611]
+    4300012: Basic Roof Generic - 18" [261718]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
